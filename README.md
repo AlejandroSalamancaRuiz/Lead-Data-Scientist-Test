@@ -15,6 +15,9 @@ This repository contains tools and resources for analyzing call transcripts and 
 
 3. **Label Data**  
    Labels for the last 20 transcripts are provided in this repository under the folder `transcripts_v3_labels`.
+   
+4. **OpenAI key**
+   OpenAI key must be provided as an environment variable for the GenAI notebook to run. 
 
 ## Use Cases
 
