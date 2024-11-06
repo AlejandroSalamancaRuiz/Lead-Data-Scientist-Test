@@ -1,0 +1,13 @@
+langchain
+openai
+pydantic
+scikit-learn
+pandas
+matplotlib
+scikit-learn-extra
+numpy
+seaborn
+torch
+pytorch-lightning
+torchmetrics
+xgboost

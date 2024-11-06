@@ -1,0 +1,21 @@
+file_name,sentiment,outcome
+transcript_180.txt,positive,issue resolved
+transcript_181.txt,positive,issue resolved
+transcript_182.txt,neutral,issue resolved
+transcript_183.txt,negative,follow-up action needed
+transcript_184.txt,neutral,follow-up action needed
+transcript_185.txt,neutral,follow-up action needed
+transcript_186.txt,positive,issue resolved
+transcript_187.txt,positive,issue resolved
+transcript_188.txt,neutral,issue resolved
+transcript_189.txt,neutral,follow-up action needed
+transcript_190.txt,negative,issue resolved
+transcript_191.txt,neutral,follow-up action needed
+transcript_192.txt,neutral,follow-up action needed
+transcript_193.txt,neutral,follow-up action needed
+transcript_194.txt,neutral,follow-up action needed
+transcript_195.txt,neutral,issue resolved
+transcript_196.txt,neutral,follow-up action needed
+transcript_197.txt,neutral,follow-up action needed
+transcript_198.txt,neutral,issue resolved
+transcript_199.txt,negative,follow-up action needed
