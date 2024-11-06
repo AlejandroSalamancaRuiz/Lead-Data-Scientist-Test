@@ -37,3 +37,5 @@ This repository contains tools and resources for analyzing call transcripts and 
 ## Presentation
 
 For a comprehensive overview of approaches, experimental procedures, and results, please refer to the presentation: [Presentation Link](<https://gamma.app/docs/Lead-Data-Science-Task-for-AXA-u16lm3q28rnirl6>)
+
+Video explanation: [Video link](<https://drive.google.com/file/d/1hSSKC5bwTYFbnxZQfp_yQY_e4yOA2IKA/view?usp=sharing>)
